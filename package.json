@@ -8,5 +8,8 @@
     "start": "node index"
   },
   "author": "Lijo M Loyid",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.12.10"
+  }
 }
